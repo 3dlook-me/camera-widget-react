@@ -1,3 +1,24 @@
+## [1.1.1](https://github.com/3dlook-me/camera-widget-react/compare/v1.1.0...v1.1.1) (2024-05-07)
+
+
+### Bug Fixes
+
+* **KDL-1185:** revert h for preact ([a75b813](https://github.com/3dlook-me/camera-widget-react/commit/a75b8137d677bba65b80c1698becc95cb5f37db4))
+
+# [1.1.0](https://github.com/3dlook-me/camera-widget-react/compare/v1.0.0...v1.1.0) (2024-05-06)
+
+
+### Features
+
+* **KDL-1185:** Create the preact/compat for Camera SDK integration in React Native environment ([0e1ac19](https://github.com/3dlook-me/camera-widget-react/commit/0e1ac19959ffd51cea4459c4ddee888cb14a1b8f))
+
+# 1.0.0 (2024-05-03)
+
+
+### Features
+
+* update GitHub workflow and package info ([51e9e34](https://github.com/3dlook-me/camera-widget-react/commit/51e9e34c008d8a86530c61774b37793e57f1d31e))
+
 # [2.6.0](https://github.com/3dlook-me/widget-camera/compare/v2.5.2...v2.6.0) (2024-03-05)
 
 
